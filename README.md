@@ -9,4 +9,4 @@ _Analysis Model of Education and it's Quality._
 
 The Project is of Clasifed Dataset of Marks Scored by Students of various Subjects, Colleges, Degrees, And Qualifications. This Model helps to breakdown into further simpler classifications.
 
-- Dataset: [Link to the Dataset](https://github.com/orgs/community/discussions/categories/github-education) 
+- Dataset: [Link to the Dataset](https://github.com/Sachinraj25/DS-Sachin/blob/main/StudentsPerformance.csv) 
